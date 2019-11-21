@@ -8,6 +8,8 @@ Generating sound from an image on the basis of objects and background of the ima
 
 > Mobile-Net
 
+![picture](fireworks.jpg)
+![picture](music.jpg)
 ### Applications
 1. Reliving Past moments
 2. Customizable Restaurant Ambience
