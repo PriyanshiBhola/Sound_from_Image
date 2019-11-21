@@ -2,6 +2,8 @@
 
 ### SOUND GENERATION from Images
 
+Generating sound from an image on the basis of objects and background of the image.
+
 > SOUND-NET
 
 > Mobile-Net
