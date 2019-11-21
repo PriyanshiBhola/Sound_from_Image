@@ -1,1 +1,17 @@
 # Sound_from_Image
+
+### SOUND GENERATION from Images
+
+> SOUND-NET
+
+> Mobile-Net
+
+### Applications
+1. Reliving Past moments
+2. Customizable Restaurant Ambience
+3. Exploring places without even visiting them
+
+### Future Scope
+1. Application on Video/Sequence of Images
+2. Hand Gesture Control with Bare Hands
+3. Songs Recommendation
